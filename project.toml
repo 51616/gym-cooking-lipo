@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gym-cooking-lipo"
+version = "0.0.1"
+authors = [
+  { name="Rujikorn Charakorn" },
+]
+description = "A variant of https://github.com/DavidRother/cooking_zoo used in LIPO"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/51616/gym-cooking-lipo"
