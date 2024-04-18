@@ -2,6 +2,9 @@
 
 A variant of https://github.com/DavidRother/cooking_zoo used in LIPO.
 
+github repo: https://github.com/51616/gym-cooking-lipo
+pypi page: https://pypi.org/project/gym-cooking-lipo/
+
 ### Installation
 ```bash
 pip install gym-cooking-lipo
