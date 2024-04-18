@@ -114,7 +114,7 @@ level = "open_room_blender"
 seed = 1
 record = False
 max_num_timesteps = 100
-recipes = ["TomatoSalad"]
+recipes = ["ChoppedCarrot", "LettuceSalad"]
 
 parallel_env = cooking_zoo.parallel_env(
     level=level,
